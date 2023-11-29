@@ -130,7 +130,4 @@ $VG2 = new PhysicalVideogame("Dreams light valley", "Adventure", +7, 35.10, "In 
 neighbors are Disney's characters and you need to help them in differents situations.", "GAME", "No available");
 echo var_dump($VG2) . "<br>";
 
-
-
-
 ?>

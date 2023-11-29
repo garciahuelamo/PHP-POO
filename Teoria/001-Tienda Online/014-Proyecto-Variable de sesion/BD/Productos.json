@@ -1,0 +1,31 @@
+[
+    {
+        "nombre" : "Zapatillas de tenis",
+        "descripcion" : "Zapatillas para poder practicas tenis de forma cómoda",
+        "precio" : "30",
+        "longitud" : "40",
+        "anchura" : "30",
+        "altura" : "20",
+        "peso" : "2"
+    },
+
+    {
+        "nombre" : "Raqueta de tenis",
+        "descripcion" : "Raqueta para poder jugar al tenis cómodamente",
+        "precio" : "50",
+        "longitud" : "30",
+        "anchura" : "40",
+        "altura" : "5",
+        "peso" : "1"
+    },
+
+    {
+        "nombre" : "Calcetines de deporte",
+        "descripcion" : "Calcetines blanco para poder hacer deporte",
+        "precio" : "10",
+        "longitud" : "4",
+        "anchura" : "5",
+        "altura" : "6",
+        "peso" : "0.2"
+    }
+]
