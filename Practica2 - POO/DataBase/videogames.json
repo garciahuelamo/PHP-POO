@@ -1,0 +1,37 @@
+[
+    {
+        "name" : "FC 24",
+        "image" : "<img src='Img/FC24.jpg' alt='FIFA 2024' width='350' height='200'",
+        "style" : "Sport",
+        "min_year" : "13",
+        "price" : "89.90",
+        "description" : "Videogame about the new season on Football in the world." 
+    },
+
+    {
+        "name" : "Dreamlight Valley",
+        "image" : "<img src='Img/DREAM.jpg' alt='Dreamlight Valley' width='350' height='200'",
+        "style" : "Disney",
+        "min_year" : "7",
+        "price" : "35.15",
+        "description" : "Videogame about the Disney's characters"
+    },
+
+    {
+        "name" : "God of War",
+        "image" : "<img src='Img/GOD.jpg' alt='God of war' width='350' height='200'",
+        "style" : "RPG",
+        "min_year" : "18",
+        "price" : "40.35",
+        "description" : "Videogame about the God of War's history"
+    },
+
+    {
+        "name" : "Fornite",
+        "image" : "<img src='Img/FORNITE.jpg' alt='Fornite' width='350' height='200'",
+        "style" : "Shoots",
+        "min_year" : "14",
+        "price" : "9.99",
+        "description" : "Videogame about the world where you have to survive"
+    }
+]
