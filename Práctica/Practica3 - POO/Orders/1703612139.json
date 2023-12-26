@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "name": "FC 24",
+            "style": "Sport",
+            "min_year": "13",
+            "price": "89.90",
+            "description": "Videogame about the new season on Football in the world."
+        },
+        {
+            "name": "Dreamlight Valley",
+            "style": "Disney",
+            "min_year": "7",
+            "price": "35.15",
+            "description": "Videogame about the Disney's characters"
+        },
+        {
+            "name": "God of War",
+            "style": "RPG",
+            "min_year": "18",
+            "price": "40.35",
+            "description": "Videogame about the God of War's history"
+        },
+        {
+            "name": "Fornite",
+            "style": "Shoots",
+            "min_year": "14",
+            "price": "9.99",
+            "description": "Videogame about the world where you have to survive"
+        }
+    ],
+    "client": {
+        "name": "Angela",
+        "surname": "Garcia Huelamo",
+        "email": "agarciah45@alumnos.imf.com",
+        "telephone": "0648458000"
+    },
+    "total": null
+}
