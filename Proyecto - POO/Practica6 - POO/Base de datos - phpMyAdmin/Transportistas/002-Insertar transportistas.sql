@@ -1,2 +1,0 @@
-INSERT INTO `transportistas` (`id`, `nombre`, `cif`, `dir_facturacion`, `dom_bancaria`, `pais_status`, `cp_status`, `telefono`, `idRemolque`, `matricula_tractora`, `imagen`) 
-VALUES (NULL, 'Angela', 'C123456789D', 'Calle Ficticia2, 345', 'ES01 1234 5678 0123456789', 'ES', '45003', '654789003', '', '5478LGJ', 'angela.jpg');

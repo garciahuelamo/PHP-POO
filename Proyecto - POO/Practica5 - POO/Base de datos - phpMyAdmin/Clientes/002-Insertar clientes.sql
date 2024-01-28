@@ -1,2 +1,0 @@
-INSERT INTO `clientes` (`id`, `nombre`, `cif`, `direccion`, `cp`, `horario`, `telefono`, `imagen`) 
-VALUES (NULL, 'Aluminium SL', 'A12345678B', 'Calle Ficticia 123', '28001', '8-16, 17-20h', '639934765', 'aluminiumsl.jpg');
