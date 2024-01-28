@@ -1,0 +1,1 @@
+CREATE DATABASE avp_enterprise;
