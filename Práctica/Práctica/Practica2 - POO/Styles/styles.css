@@ -1,0 +1,19 @@
+html,body{
+    background: rgb(193, 201, 219);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:white;
+}
+
+main, footer, header{
+    padding: 50px;
+    background: rgb(78, 81, 210);
+    width: 1300px;
+    margin: auto;
+}
+
+article {
+    width: 600px;
+    display: inline-block;
+}
+
